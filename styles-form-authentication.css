@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: 'Girloy', 'Times new roman';
+    background-color: rgb(255, 255, 255);
+}
+
+.form {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+
+background-size: 1%;
+
+}
+.Location{
+ text-align: center;
+ background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697414400&semt=sph);
+ border-color: rgb(255, 255, 255);
+ padding: 10;
+ background-size: 200%;
+ background-repeat: no-repeat;
+}
+h1{
+
+    color: rgb(218, 10, 10);
+    
+}
+.Feedback-form {
+
+    background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697414400&semt=sph);
+    background-size: 200%;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn {
+    /* Теперь это строчно-блочный элемент */  
+    display: inline-block; 
+    /* Серый цвет фона кнопки */
+    background: #0575d7; 
+    /* Белый цвет текста */
+    color: #000000; 
+    /* Отступы вокруг текста */
+    padding: 16px 32px; 
+    /* Убираем подчёркивание */
+    text-decoration: none; 
+    /* Скругляем уголки */
+    border-radius: 10px; 
+}
